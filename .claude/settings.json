@@ -1,0 +1,65 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Glob",
+      "Grep",
+      "Edit",
+      "Write",
+      "NotebookEdit",
+      "WebFetch",
+      "WebSearch",
+      "Task(*)",
+
+      "Bash(brew *)",
+      "Bash(kill *)",
+      "Bash(lsof *)",
+      "Bash(open *)",
+      "Bash(source *)",
+      "Bash(ls *)",
+      "Bash(pwd)",
+      "Bash(which *)",
+      "Bash(env)",
+      "Bash(echo *)",
+      "Bash(cat *)",
+      "Bash(head *)",
+      "Bash(tail *)",
+      "Bash(wc *)",
+      "Bash(mkdir *)",
+      "Bash(rm *)",
+      "Bash(touch *)",
+      "Bash(cp *)",
+      "Bash(mv *)",
+      "Bash(rg *)",
+      "Bash(fd *)",
+      "Bash(chmod *)",
+
+      "Bash(git *)",
+
+      "Bash(pnpm *)",
+      "Bash(npx *)",
+      "Bash(node *)",
+      "Bash(tsx *)",
+      "Bash(tsc *)",
+      "Bash(expo *)",
+      "Bash(eas *)",
+      "Bash(next *)",
+      "Bash(vite *)",
+      "Bash(vitest *)",
+      "Bash(jest *)",
+      "Bash(playwright-cli *)",
+      "Bash(eslint *)",
+      "Bash(prettier *)",
+      "Bash(docker *)",
+      "Bash(docker-compose *)",
+      "Bash(gh *)",
+      "Bash(curl *)",
+      "Bash(jq *)",
+
+      "mcp__playwright-test__*"
+    ]
+  },
+  "enabledPlugins": {
+    "superpowers@claude-plugins-official": true
+  }
+}
