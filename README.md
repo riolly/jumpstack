@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/logo.svg" alt="JumpStack Logo" width="120" />
+</p>
+
 # JumpStack
 
 **Agent-optimized, fully loaded TanStack.**
